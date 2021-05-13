@@ -1,0 +1,4 @@
+#Thu May 13 17:28:39 WET 2021
+base.0=/home/hamza/AndroidStudioProjects/quiz/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
